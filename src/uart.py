@@ -1,6 +1,6 @@
 import serial
 import time
-from src.modbus import Modbus
+from modbus import Modbus
 
 import struct
 

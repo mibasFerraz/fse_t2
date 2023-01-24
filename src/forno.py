@@ -1,8 +1,8 @@
-from src.logger import Logger
-from src.pid import PID
-from src.bme import BME
-from src.uart import Uart
-from src.pwm import PWM
+from logger import Logger
+from pid import PID
+from bme import BME
+from uart import Uart
+from pwm import PWM
 from time import sleep, time
 
 class Forno:
