@@ -8,7 +8,7 @@
 | 18/0105345  |  Lucas Lima Ferraz     |
 
 ## Sobre 
-Trabalho relativo ao que se encontra no gitlab da disciplina de fse.
+Trabalho relativo ao que se encontra no gitlab da disciplina de fse e o vídeo encontra-se na pasta assets
 
 ## Instalação 
 **Linguagem**: Python<br>
