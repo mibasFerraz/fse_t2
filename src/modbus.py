@@ -1,4 +1,4 @@
-from crc16 import calcula_crc
+from src.crc16 import calcula_crc
 import struct
 
 class Modbus:
